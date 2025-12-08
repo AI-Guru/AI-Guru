@@ -6,7 +6,7 @@ I'm a researcher, developer, and AI enthusiast specializing in **AI for music ge
 
 - **Music AI Research**: I curate comprehensive resources on music generation and AI, maintaining the popular [Music Generation Research](https://github.com/AI-Guru/music-generation-research) repository (598+ ⭐) and creating innovative projects like [MMM-JSB](https://github.com/AI-Guru/MMM-JSB) for multi-track Bach chorale generation.
 
-- **Small Language Models**: Creator of [Helibrunna](https://github.com/AI-Guru/helibrunna) (76+ ⭐), a HuggingFace-compatible framework for training Small Language Models, with support for xLSTM, Mamba, Pharia, and Transformer architectures.
+- **Small Language Models**: Creator of [Helibrunna](https://github.com/AI-Guru/helibrunna) (76+ ⭐), a Hugging Face-compatible framework for training Small Language Models, with support for xLSTM, Mamba, Pharia, and Transformer architectures.
 
 - **AI Infrastructure**: Building practical AI tools including [ai_services](https://github.com/AI-Guru/ai_services) for AI sovereignty, [chatterbox-fastapi](https://github.com/AI-Guru/chatterbox-fastapi) for conversational AI, and various workflow automation solutions.
 
