@@ -14,13 +14,15 @@ I'm an AI hands-on advisor specializing in Machine Learning and Deep Learning. S
 ## Education
 
 **PhD in Natural Sciences (Dr. rer. nat.)** - *Magna cum Laude*
-Technical University of Clausthal (2009-2012)
+Technical University of Clausthal (2006-2012)
 Dissertation: "Towards Building Blocks for Agent-Oriented Programming"
 Supervisor: Prof. Dr. Jürgen Dix
+Focus on Artificial Intelligence and Multi-Agent Systems (since 2004)
 
 **Diploma in Computer Science (Dipl.-Inf.)** - *Sehr gut*
 Technical University of Clausthal (2001-2006)
 Thesis: "Static Analysis of C# Programs"
+First AI lecture attended in 2004
 
 ## Professional Experience
 
@@ -50,7 +52,7 @@ Thesis: "Static Analysis of C# Programs"
 - Leveraging NVIDIA RTX 4090 infrastructure for AI music generation
 - Making AI more accessible and tangible through art
 
-### CTO | Stealth-Mode Startup (2020 - 2021)
+### Co-Founder | Stealth-Mode Startup (2020 - 2021)
 - Developing AI-based music generation platform enabling high-quality music composition
 - Data Science and Machine Learning for music corpus analysis
 - Training neural networks (CNNs and RNNs) for polyphonic composition
